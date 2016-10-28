@@ -1,0 +1,62 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>University Management System</h1>
+    <p class="lead">Welcome to [4 Warriors] University Management System. With this app you can manage your university easily and efficiently. Please select appropriate menu option to continue.</p>
+</div>
+
+<div class="row">
+
+
+    <div class="col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4>Student</h4>
+            </div>
+            <div class="panel-body">
+                <ul>
+                    <li>@Html.ActionLink("Student", "Index", "Student")</li>
+                    <li>@Html.ActionLink("View Result", "ViewResult", "ResultEntrie")</li>
+                    <li>@Html.ActionLink("Enroll Course", "Create", "EnrollCourse")</li>
+                    <li>@Html.ActionLink("Room Allocation", "Create", "RoomAllocation")</li>
+                    <li>@Html.ActionLink("View Room", "RoomAllocationView", "RoomAllocation")</li>
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4>Teacher</h4>
+            </div>
+            <div class="panel-body">
+                <ul>
+
+                    <li>@Html.ActionLink("Teacher", "Index", "Teacher")</li>
+                    <li>@Html.ActionLink("Assign Course", "Create", "AssignCourse")</li>
+                    <li>@Html.ActionLink("View Course Status", "ViewCourseStatus", "AssignCourse")</li>
+                    <li>@Html.ActionLink("Result Entry", "Create", "ResultEntrie")</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4>Department</h4>
+            </div>
+            <div class="panel-body">
+                <ul>
+                    <li>@Html.ActionLink("Semester", "Index", "Semester")</li>
+                    <li>@Html.ActionLink("Department", "Index", "Department")</li>
+                    <li>@Html.ActionLink("Course", "Index", "Course")</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

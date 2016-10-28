@@ -1,0 +1,130 @@
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.dll
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.dll
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.dll
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.dll
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.dll
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\WebGrease.dll
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.pdb
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.xml
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.xml
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.xml
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.xml
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.InitialCreate.resources
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.departmentvalidationadded.resources
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.depsemcoursevalidationadded.resources
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.semesterupdated.resources
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.coursesemfixed.resources
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.Teacheradded.resources
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.Seedadded.resources
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.Studentadded.resources
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.V1.resources
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.GenerateResource.Cache
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+C:\Users\S.M.Saifur\Desktop\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.dll
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.dll
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.dll
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.dll
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.dll
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.dll
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.dll
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.dll
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.dll
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\WebGrease.dll
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\Antlr3.Runtime.pdb
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.xml
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\EntityFramework.SqlServer.xml
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\Newtonsoft.Json.xml
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Helpers.xml
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Mvc.xml
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Optimization.xml
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.Razor.xml
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.xml
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.InitialCreate.resources
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.departmentvalidationadded.resources
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.depsemcoursevalidationadded.resources
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.semesterupdated.resources
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.coursesemfixed.resources
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.Teacheradded.resources
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.Seedadded.resources
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.Studentadded.resources
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.V1.resources
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.V6.resources
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.v7.resources
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.v9.resources
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.v10.resources
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.GenerateResource.Cache
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+D:\Projects\VS 2013\UniversityManagementSystem\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.v11.resources
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\UniversityManagementSystem.dll.config
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\UniversityManagementSystem.dll
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\UniversityManagementSystem.pdb
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\Antlr3.Runtime.dll
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\EntityFramework.dll
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\EntityFramework.SqlServer.dll
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\Microsoft.Web.Infrastructure.dll
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\Newtonsoft.Json.dll
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\System.Web.Helpers.dll
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\System.Web.Mvc.dll
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\System.Web.Optimization.dll
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\System.Web.Razor.dll
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.dll
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\System.Web.WebPages.dll
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\System.Web.WebPages.Razor.dll
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\WebGrease.dll
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\Antlr3.Runtime.pdb
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\EntityFramework.xml
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\EntityFramework.SqlServer.xml
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\Newtonsoft.Json.xml
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\System.Web.Helpers.xml
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\System.Web.Mvc.xml
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\System.Web.Optimization.xml
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\System.Web.Razor.xml
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\System.Web.WebPages.xml
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\System.Web.WebPages.Deployment.xml
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\bin\System.Web.WebPages.Razor.xml
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csprojResolveAssemblyReference.cache
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.InitialCreate.resources
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.departmentvalidationadded.resources
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.depsemcoursevalidationadded.resources
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.semesterupdated.resources
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.coursesemfixed.resources
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.Teacheradded.resources
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.Seedadded.resources
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.Studentadded.resources
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.V1.resources
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.V6.resources
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.v7.resources
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.v9.resources
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.v10.resources
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations.v11.resources
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.csproj.GenerateResource.Cache
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.dll
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.pdb
+E:\projects\Basis-Project-UMS--master\UniversityManagementSystem\obj\Debug\UniversityManagementSystem.Migrations._3rdmigration.resources

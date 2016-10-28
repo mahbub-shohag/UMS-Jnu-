@@ -1,0 +1,174 @@
+﻿@using UniversityManagementSystem.Controllers;
+@model UniversityManagementSystem.Models.AssignCourse
+
+@{
+    ViewBag.Title = "Create";
+}
+
+
+<script src="~/Scripts/jquery.validate.min.js" type="text/javascript"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js" type="text/javascript"></script>
+<script src="~/Scripts/jquery-2.1.1.min.js" type="text/javascript"></script>
+<script src="~/Scripts/jquery-ui-1.11.2.min.js" type="text/javascript"></script>
+
+
+@*<h2>Create</h2>
+
+
+    <script src="~/Scripts/jquery.validate.min.js" type="text/javascript"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js" type="text/javascript"></script>
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>AssignCourse</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.DepartmentId, "DepartmentId", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("DepartmentId", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.DepartmentId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.TeacherId, "TeacherId", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("TeacherId", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.TeacherId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CreditTaken, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.CreditTaken, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.CreditTaken, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.RemaingCredit, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.RemaingCredit, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.RemaingCredit, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CourseId, "CourseId", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("CourseId", null, htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.CourseId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}*@
+
+
+
+<h2>Course Assign to Teacher</h2>
+<h3 style="color:forestgreen">@TempData["success"]</h3>
+<h3 style="color: red">@TempData["Already"]</h3>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+
+    <fieldset>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.DepartmentId, "Department")
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("DepartmentId", String.Empty)
+            @Html.ValidationMessageFor(model => model.DepartmentId)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.TeacherId, "Teacher")
+        </div>
+        <div class="editor-field">
+            @Html.Partial("_FillteredTeacher")
+            @Html.ValidationMessageFor(model => model.TeacherId)
+        </div>
+        <div id="teacherInfo">
+            @Html.Partial("~/Views/Shared/_TeachersCreditInfo.cshtml")
+        </div>
+
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.CourseId, "Course")
+        </div>
+        <div class="editor-field">
+            @Html.Partial("_FilteredCourse")
+            @Html.ValidationMessageFor(model => model.CourseId)
+        </div>
+        <div id="courseInfo">
+            @Html.Partial("~/Views/Shared/_CourseInfo.cshtml")
+        </div>
+        <p>
+            <input type="submit" value="Assign" class="btn btn-default" />
+
+        </p>
+    </fieldset>
+}
+<script type="text/javascript">
+    function FillData(id) {
+
+        $('#TeacherId').load('@Url.Action("LoadTeacher")', { departmentId: id });
+        $('#CourseId').load('@Url.Action("LoadCourse")', { departmentId: id });
+
+    }
+    function FillTeacherInfo(id) {
+
+        $('#teacherInfo').load('@Url.Action("TeacherInfoLoad")', { teacherId: id });
+
+    }
+    function FillCourseInfo(id) {
+
+        $('#courseInfo').load('@Url.Action("CourseInfoLoad")', { courseId: id });
+
+    }
+
+    $(function () {
+        $('#DepartmentId').change(function () {
+            var id = $('#DepartmentId').val();
+            FillData(id);
+        });
+        $('#TeacherId').change(function () {
+            var id = $('#TeacherId').val();
+            FillTeacherInfo(id);
+        });
+        $('#CourseId').change(function () {
+            var id = $('#CourseId').val();
+            FillCourseInfo(id);
+        });
+    });
+</script>
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+
