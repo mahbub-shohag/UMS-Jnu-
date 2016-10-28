@@ -1,2 +1,2 @@
-Basis-Project-UMS-
+Project On university management system.
 ==================
